@@ -12,6 +12,7 @@ export default function Navbar() {
     { title: "Projects", href: "#projects" },
     { title: "About", href: "#about" },
     { title: "Contact", href: "#contact" },
+    { title: "GitHub", href: "https://github.com/sharmabibash" },
   ];
 
   return (
